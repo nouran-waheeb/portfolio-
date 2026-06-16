@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" fill="none">
+  <defs>
+    <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a1628"/>
+      <stop offset="100%" stop-color="#1e293b"/>
+    </linearGradient>
+    <linearGradient id="g2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00d4ff"/>
+      <stop offset="100%" stop-color="#3b82f6"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="400" rx="16" fill="url(#g1)"/>
+  <rect x="40" y="40" width="560" height="320" rx="12" fill="#0f172a" stroke="#334155" stroke-width="1"/>
+  <rect x="60" y="60" width="520" height="48" rx="8" fill="#1e293b"/>
+  <circle cx="88" cy="84" r="8" fill="#00d4ff" opacity="0.8"/>
+  <rect x="110" y="76" width="120" height="16" rx="4" fill="#334155"/>
+  <rect x="60" y="130" width="240" height="180" rx="10" fill="#1e293b" stroke="#334155"/>
+  <path d="M120 280 L180 220 L240 250 L300 180" stroke="url(#g2)" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <circle cx="120" cy="280" r="6" fill="#00d4ff"/>
+  <circle cx="300" cy="180" r="6" fill="#3b82f6"/>
+  <rect x="320" y="130" width="260" height="40" rx="8" fill="#1e293b"/>
+  <rect x="320" y="185" width="260" height="40" rx="8" fill="#1e293b"/>
+  <rect x="320" y="240" width="260" height="40" rx="8" fill="#1e293b"/>
+  <rect x="320" y="295" width="180" height="36" rx="18" fill="url(#g2)" opacity="0.3"/>
+  <text x="320" y="380" fill="#64748b" font-family="system-ui,sans-serif" font-size="16">Metro App  Kotlin Android</text>
+</svg>

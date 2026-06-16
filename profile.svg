@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a1628"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00d4ff"/>
+      <stop offset="100%" stop-color="#3b82f6"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" rx="24" fill="url(#bg)"/>
+  <circle cx="200" cy="200" r="120" stroke="url(#accent)" stroke-width="2" fill="none" opacity="0.3"/>
+  <circle cx="200" cy="200" r="90" stroke="url(#accent)" stroke-width="1" fill="none" opacity="0.2"/>
+  <circle cx="200" cy="155" r="45" fill="url(#accent)" opacity="0.15"/>
+  <circle cx="200" cy="145" r="38" stroke="url(#accent)" stroke-width="2" fill="#0f172a"/>
+  <ellipse cx="200" cy="280" rx="70" ry="55" fill="url(#accent)" opacity="0.12"/>
+  <ellipse cx="200" cy="275" rx="65" ry="50" stroke="url(#accent)" stroke-width="2" fill="#0f172a"/>
+  <text x="200" y="355" text-anchor="middle" fill="#64748b" font-family="system-ui,sans-serif" font-size="14">Replace with your photo</text>
+</svg>
